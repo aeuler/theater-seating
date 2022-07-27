@@ -1,3 +1,5 @@
+# Theater Seating Program
+
 Welcome to my Java Project!
 
 In this project, I have designed a theater seating app with Java that gets you a ticket by location, best, and price.
